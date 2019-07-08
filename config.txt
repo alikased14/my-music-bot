@@ -1,6 +1,6 @@
-owner=516473846983950336
+owner=490273031277772829
 prefix=!
 game=Break | !play
 stayinchannel=true
 songinstatus=false
-token=NTMxMjI1OTg3ODI5MDcxODgy.DxK29Q.Keso3BNagob-WxrfhDlaYd4fj34
+token=NTk2MDUwMDk1MDQ1MjE0MjE0.XSMe2A.jCPHnnx5qLSFG-tQSwWniJJO6wg
